@@ -1,0 +1,223 @@
+{
+  "battledata":[
+    {
+      "char_no":1,
+      "stats": [
+        1,
+        "L",
+        1,
+        1,
+        100,
+        30,
+        30,
+        10,
+        10,
+        10,
+        0,
+        10,
+        10,
+        10,
+        10
+      ],
+      "skill0": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill1": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill2": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill3": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill4": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ]
+    },{
+      "char_no":6,
+      "stats": [
+        6,
+        "R",
+        6,
+        1,
+        100,
+        30,
+        30,
+        10,
+        10,
+        10,
+        0,
+        10,
+        10,
+        10,
+        10,
+        300,
+        300,
+        300,
+        300,
+        300,
+        100,
+        3000,
+        150,
+        150,
+        150
+      ],
+      "skill0": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill1": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill2": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill3": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill4": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ]
+    },
+    {
+      "char_no":7,
+      "stats": [
+        7,
+        "R",
+        7,
+        1,
+        100,
+        30,
+        30,
+        10,
+        10,
+        10,
+        0,
+        10,
+        10,
+        10,
+        10
+      ],
+      "skill0": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill1": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill2": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill3": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ],
+      "skill4": [
+        300,
+        100,
+        {
+        "targetMove" : ["range","near","","enemy",1]
+        },
+        {
+        "targetAction" : ["range","near","","enemy",1]
+        }
+      ]
+    }
+  ]
+}
